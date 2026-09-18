@@ -4,7 +4,8 @@ Production-ready веб-приложение магазина цифровых �
 
 ## Live Demo
 
-- **Production Deployment (Vercel):** [https://test-task-fullstack-razrabotchik-mu6tgb56.vercel.app](https://test-task-fullstack-razrabotchik-mu6tgb56.vercel.app)
+- **Production Deployment (Vercel):** [https://test-task-fullstack-razrabotchik-mu.vercel.app](https://test-task-fullstack-razrabotchik-mu.vercel.app)
+- **Direct Deployment URL:** [https://test-task-fullstack-razrabotchik-mu6tgb56-ckvrtfqqk-max112.vercel.app](https://test-task-fullstack-razrabotchik-mu6tgb56-ckvrtfqqk-max112.vercel.app)
 - **Исходный репозиторий GitHub:** [https://github.com/GoncharovMaksim/test-task-fullstack-razrabotchik-mu6tgb56](https://github.com/GoncharovMaksim/test-task-fullstack-razrabotchik-mu6tgb56)
 
 ---
