@@ -85,7 +85,7 @@ export class DeliveryService {
       }
     }
 
-    // Handle delivery result
+    // Transition order to terminal or recoverable state based on issue outcome
     if (issuedCode) {
       order.status = 'delivered';
       order.keyIssued = issuedCode;
